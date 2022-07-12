@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rodrigo Buges 👋, estudande de Engenharia de Software e apaixonado por programação!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1CA670&size=25&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Rodrigo+Buges+👋;Be+Welcome🎉!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/rod-buges">
