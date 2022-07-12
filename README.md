@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Olá pessoal, tudo bem?
+### Olá! Eu sou o Rodrigo Buges 👋
