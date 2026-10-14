@@ -32,9 +32,11 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rod-buges/rod-buges/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rod-buges/rod-buges/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rod-buges/rod-buges/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=rod-buges&theme=gotham&no-frame=true&row=1&column=7" alt="Troféus"/>
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Frase aleatória"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=rod-buges&label=Visitantes&color=1CA670&style=for-the-badge" alt="Visitantes"/>
+  <br><br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1CA670&height=120&section=footer" alt="Banner"/>
 </div>
