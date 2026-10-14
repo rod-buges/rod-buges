@@ -29,8 +29,6 @@
   <a href="https://linkedin.com/in/rodrigo-buges-teixeira-fran%C3%A7a-11392b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<br>
-
 <div align="center">
   <br><br>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1CA670&height=120&section=footer" alt="Banner"/>
