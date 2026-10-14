@@ -33,7 +33,5 @@
 
 <div align="center">
   <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Frase aleatória"/>
-  <br><br>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1CA670&height=120&section=footer" alt="Banner"/>
 </div>
